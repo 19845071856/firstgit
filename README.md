@@ -1,2 +1,4 @@
 # firstgit
-my first github
+my first repositry on Github.
+
+I love :coffee: :pizza: ,and :dancer:.
